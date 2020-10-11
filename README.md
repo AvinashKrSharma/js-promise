@@ -1,2 +1,3 @@
 # js-promise
-my javascript promise implementation
+javascript promise implementation
+
